@@ -1,1 +1,1 @@
-web: pom.xml
+web: java -cp pom.xml
