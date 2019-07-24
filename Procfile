@@ -1,1 +1,1 @@
-web: mvn install
+web: exec:java
