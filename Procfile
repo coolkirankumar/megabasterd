@@ -1,1 +1,1 @@
-web: java -cp pom.xml
+web: mvn install
